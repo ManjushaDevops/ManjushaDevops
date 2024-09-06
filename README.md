@@ -6,6 +6,6 @@
 
 ✍🏽 I regularly write articles on https://medium.com/@TheDevopsExplorer , https://dev.to/@TheDevopsExplorer
 
-🫱🏻‍🫲🏼 You can reach me on manjusha.devops98@gmail.com
+🫱🏻‍🫲🏼 You can reach to me on manjusha.devops98@gmail.com
 
 -🙌🏽 Let's learn toghether!
