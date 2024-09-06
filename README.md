@@ -4,6 +4,8 @@
 
 -🌱 I’m currently learning GitOps.
 
-✍🏽 I regularly write blogs on https://medium.com/@TheDevopsExplorer , https://dev.to/@TheDevopsExplorer
+✍🏽 I regularly write articles on https://medium.com/@TheDevopsExplorer , https://dev.to/@TheDevopsExplorer
+
+🫱🏻‍🫲🏼 You can reach me on manjusha.devops98@gmail.com
 
 -🙌🏽 Let's learn toghether!
