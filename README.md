@@ -2,9 +2,7 @@
 
 -👩🏽‍💻 I'm a Devops Professional.
 
--🌱 I’m currently learning GitOps.
-
-✍🏽 I regularly write articles on https://medium.com/@TheDevopsExplorer , https://dev.to/@TheDevopsExplorer
+-🌱 I’m currently learning GitOps
 
 💼 Checkout my experience on https://in.linkedin.com/in/manjusha-adaling
 
