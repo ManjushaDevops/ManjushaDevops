@@ -4,8 +4,10 @@
 
 -🌱 I’m currently learning GitOps
 
-💼 Checkout my experience on https://in.linkedin.com/in/manjusha-adaling
+-💼 Checkout my experience on https://in.linkedin.com/in/manjusha-adaling
 
-🫱🏻‍🫲🏼 You can reach to me on manjusha.devops98@gmail.com
+-✍🏽 I regularly write on https://dev.to/thedevopschaser
+
+-🫱🏻‍🫲🏼 You can reach to me on manjusha.devops98@gmail.com
 
 -🙌🏽 Let's learn toghether!
