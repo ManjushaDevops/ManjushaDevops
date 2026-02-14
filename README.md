@@ -2,7 +2,7 @@
 
 -👩🏽‍💻 I'm a Devops Professional.
 
--🌱 I’m currently learning GitOps
+-🌱 I’m currently learning MLOPS
 
 -💼 Checkout my experience on https://in.linkedin.com/in/manjusha-adaling
 
