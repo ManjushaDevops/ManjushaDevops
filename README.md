@@ -4,7 +4,7 @@
 
 -🌱 I’m currently learning MLOPS
 
--💼 Checkout my experience on https://in.linkedin.com/in/manjusha-adaling
+-💼 Checkout my experience on https://linkedin.com/in/manjusha-adaling
 
 -✍🏽 I regularly write on https://dev.to/thedevopschaser
 
