@@ -2,7 +2,7 @@
 
 -👩🏽‍💻 I'm a Devops Professional.
 
--🌱 I’m currently learning MLOPS
+-🌱 I'm currently building AI-augmented DevOps workflows using GitHub Copilot Agents & Claude Code
 
 -💼 Checkout my experience on https://linkedin.com/in/manjusha-adaling
 
